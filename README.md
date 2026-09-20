@@ -3,9 +3,12 @@
 
 ## Datos del equipo
 
-**Eder Alexander Austria Mendoza**.
-**Cristal Esmeralda Ruiz Herrejon**.
+**Eder Alexander Austria Mendoza**
+
+**Cristal Esmeralda Ruiz Herrejon**
+
 **Diana Xochitl Hernández García**
+
 **David Eduardo Rodríguez Romero**
 
 ## Propósito de la práctica
